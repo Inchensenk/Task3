@@ -1,0 +1,57 @@
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f0f1f4;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+
+}
+
+
+h2
+{
+    color: #0759fe;
+
+}
+
+h2
+{
+    line-height: 0.3em;
+}
+
+p{
+    line-height: 2em;
+}
+
+.mainDiv
+{
+    width: 100%;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.mainDiv2
+{
+    width: 100%;
+    display: flex;
+}
+
+.box1
+{
+    width: 800px;
+    height: 200px;
+    background-color: white;
+    padding: 4%;
+}
+
+.box2
+{
+    width: 5px;
+    height: 200px;
+    background-color: #77ba91;
+}
+
+
+
